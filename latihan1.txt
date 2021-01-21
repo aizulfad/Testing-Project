@@ -1,2 +1,2 @@
 ini file testing untuk belajar github
--saya menambahkan baris kedua dengan cara mengedit file ini
+baris ini sebelumnya telah di hapus, dan ditambahkan lagi
