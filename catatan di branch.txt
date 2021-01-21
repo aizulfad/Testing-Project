@@ -4,3 +4,5 @@ halo. ini catatan tentang github
 2. branch: directory lainnya. ketika buat branch baru, isinya sama dengan master
 3. setiap project/directory bisa memiliki banyak branch
 4. pull request: branch memintak ke master agar file di branc dapat di masukkan ke master
+5. checkout = keluar dari branch
+6. checkin = masuk ke branch
