@@ -1,0 +1,5 @@
+halo. ini catatan tentang github
+
+1. master: directory utama
+2. branch: directory lainnya. ketika buat branch baru, isinya sama dengan master
+3. setiap project/directory bisa memiliki banyak branch
