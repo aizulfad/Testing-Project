@@ -5,3 +5,4 @@ halo. ini catatan tentang github
 3. setiap project/directory bisa memiliki banyak branch
 4. pull request: branch memintak ke master agar file di branc dapat di masukkan ke master
 5. checkout = keluar dari branch
+6. checkin = masuk ke branch
